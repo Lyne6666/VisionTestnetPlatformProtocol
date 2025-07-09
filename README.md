@@ -1,2 +1,1 @@
-# VisionTestnetPlatformProtocol
-Advanced VisionTestnetPlatformProtocol project
+.
